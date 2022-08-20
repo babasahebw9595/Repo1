@@ -33,6 +33,7 @@ public class LoginTest extends TestBase {
 		lp.verifyFacebookLoginPageCreatePage();
 		lp.verifyFacebookLoginPageFooterLinks();
 		lp.setFacebookLoginPageUsername();
+		123
 		lp.setFacebookLoginPagePassword();
 		lp.clickFacebookLoginPageLoginBtn();
 	}
